@@ -1,6 +1,6 @@
 # Zecpath Internship – Day 1
 
-Name: Your Name  
+Name: Agi Ann Maria C.S
 Role Applied: AI Developer Intern 
 
 ## Objective
